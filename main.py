@@ -1,5 +1,4 @@
 from scapy.all import *
-from randmac import RandMac
 import psutil
 import secrets
 import string
